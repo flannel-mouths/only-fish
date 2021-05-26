@@ -3,7 +3,9 @@ OnlyFish is a social media clone built in a week by a group of strangers with th
 
 **Check it out:** https://only-fish.herokuapp.com
 Feel free to create an account or use the testing account:
+
 Email: **test<span>@</span>test<span>.</span>com**
+
 Password: **Abcd123$**
 
 ![A webpage titled "The Lake" with a collection of posts containing images](https://res.cloudinary.com/onlyfish/image/upload/v1622046055/lake_sqojme.png)
